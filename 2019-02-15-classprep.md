@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Class Prep 2/15/19"
+subheadline: ""
+categories:
+    - fieldbooks
+comments: false
+---
+One of the first interactions I remember ever having with font-- the first one where I remember font being significant-- was, strangely enough, my senior year of high school, when a friend of mine introduced me to the game Undertale. The game is very heavily text based, and different characters' dialogue would appear in different fonts. Some of those were more noticable than others-- the character Sans spoke in Comic Sans, the character  Papyrus spoke in Papyrus, for example. In hint sight, it's almost shocking how much the font contributed to and aligned with the characters' personalities. Sans is beloved, or at least infamous, in his own strange way, but doesn't take himself seriously; Papyrus takes himself quite seriously, but is viewed by many as a joke, albeit lovable; up until then, I had never noticed how much of a difference font can make. I am, actually, quite surprised that Baskerville is the "font of choice" that reigns supreme, not because I dislike it, but because it seems so average to me. I would be curious to see how Baskerville fares against the Georgia font for essays; but I have to wonders, how much of those studies can truly be attributed so wholly to font? Is it not possible that Renaud's papers simply improved in quality over time because he had more practive, not just because he changed the font? The average grade he received with Times New Roman was the median grade for him; it was also the one with the smallest sample size. How much of Renaud's "quasi-experiment" can truly be attributed to font?
