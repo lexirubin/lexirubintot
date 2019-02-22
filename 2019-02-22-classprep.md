@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Class Prep 2/22/19"
+subheadline: ""
+categories:
+    - fieldbooks
+comments: false
+---
+The idea of women being exiled from their own work, only for the credit to go to men, is far from new, and far from foreign; on a small scale, I have memories of having my (soft-spoken) comments repeated loudly by boys in my elementary school class, for them to receieve praise for my ideas. After writing and performing a spoken word piece for an album that a male friend was writing, I remember nagging him for months to get him to change the name credited with my work from my evey day name to the name I attach to my writing. I also remember collaborating on lyrics for the final songs on the album. I, of course, was not credited for that, because it was a favor to a friend. I have edited papers and projects for friends, because I enjoy it and enjoy helping my friends. The friends that are women are always incredibly grateful for my help; more often than I'd like to say, the men, shrug it off as it being almost expected. Why have women allowed this for so long? Is it because, subconsciously, we worry that our ideas will never have merit because we are women? By the time I was in high school, I had devised a system of giving my ideas to specific male friends, because if I couldn't take credit for my ideas, I could at least decide who would get the credit. Ada Lovelace gets little to no credit outside of literary and academic circles, despite her incredible contributions. Werner's discussion of women being either uncredited or scarecely credited in their work is still frighteningly relevant, and we as a culture need to make it a thing of the past. Why is it that so few men admit that it is an issue, even as they partake in the problem?
